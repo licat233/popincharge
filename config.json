@@ -1,0 +1,9 @@
+{
+    "popin_account": "账号",
+    "popin_cookie": "Cookie",
+    "mysql_addr": "localhost:3306",
+    "mysql_account": "root",
+    "mysql_password": "数据库密码",
+    "mysql_dbname": "数据库昵称",
+    "mysql_tbname": "数据表昵称"
+}
